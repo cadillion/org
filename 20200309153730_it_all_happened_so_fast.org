@@ -1,0 +1,12 @@
+#+TITLE: It All Happened So Fast
+#+TAGS: comedy, agreement, theorem, logic
+
+- tags :: [[file:20200309153820_aumann_s_agreement_theorem.org][Aumann's agreement theorem]] [[file:20200309153628_comedy.org][Comedy]] [[file:20200419002245-ideas.org][Ideas]]
+          [[file:20200419002320-wip_work_in_progress.org][WIP - Work In Progress]]  [[file:20200419002214-writing.org][Writing]]
+- source ::
+
+* [[file:20200309153730_it_all_happened_so_fast.org][It All Happened So Fast]]
+** Mathematical Truths that we choose to ignore
+*** [[file:20200309153820_aumann_s_agreement_theorem.org][Aumann's agreement theorem]]
+**** If you don't agree with me you're a fucking asshole
+*** Arrow's Theorem

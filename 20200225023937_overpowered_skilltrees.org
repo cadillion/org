@@ -1,0 +1,250 @@
+#+TITLE: Overpowered Skilltrees
+#+ROAM_ALIAS: "Guide to Life" "Things to Learn"
+#+ROAM_KEY: https://docs.google.com/document/d/1ZqsNSY7xSELjdRI9IQsh1wX_QXfUD74UwmKyqw48CXw/edit?pli=1#heading=h.szw7ah4ro1g
+#+TAGS: learning, writing, skills
+
+- tags   :: [[file:20200225023940_bivouacking.org][Bivouacking]] [[file:Firecraft.org][Firecraft]] [[file:20200225023945_foraging.org][Foraging]] [[file:20200419002245-ideas.org][Ideas]] [[file:20200225023943_navigation.org][Navigation]] [[file:20200225142822_programming.org][Programming]]
+            [[file:20200404044821-negotiation.org][Negotiation]] [[file:20200419002320-wip_work_in_progress.org][WIP - Work In Progress]] [[file:20200419002214-writing.org][Writing]]
+- source :: [[https://docs.google.com/document/d/1ZqsNSY7xSELjdRI9IQsh1wX_QXfUD74UwmKyqw48CXw/edit?pli=1#heading=h.szw7ah4ro1g][Overpowered Skilltrees]]
+
+* Overpowered Skill Trees
+** Forty skills worth learning
+*** Why forty? The average western work year is ~200 workdays, or 40 work weeks. Dedicate one 40-hour week to each skill, including some time for spaced repetition, and you can build enough knowledge within one year in each discipline to generate self-critique and self-correction.
+**** Survival
+     1. [[file:20200225023940_bivouacking.org][Bivouacking]]
+     2. [[file:20200225023941_firecraft.org][Firecraft]]
+     3. [[file:20200225023943_navigation.org][Navigation]]
+     4. [[file:20200225023945_foraging.org][Foraging]]
+     5. First-aid
+     6. Falling
+     7. Climbing
+     8. Swimming
+     9. Close combat
+     10. Textiles
+     11. Rigging
+     12. Fishing
+     13. Cooking
+     14. Hunting
+**** Crafts
+     16. Gardening
+     17. Ceramics
+     18. Machining
+     19. Joinery
+     20. Gearing
+     21. Casting
+     22. Prose
+     23. Accounting
+     24. Drafting
+     25. Presentation
+     26. Circuits
+     27. [[file:20200225142822_programming.org][Programming]]
+**** Skills
+     28. Introspection
+     29. Nutrition
+     30. Hygiene
+     31. Athleticism
+     32. Motorsports
+     33. Probability
+     34. Physics
+     35. Chemistry
+     36. Queuing
+     37. Networks
+     38. Improvisation
+     39. Arts
+     40. Linguistics
+** Chaos Magick (Comfort with Chaos)
+*** The ultimate meta-skill that allows you to learn any skill
+**** We are uncertainty-terminating machines. This is a source of severe discomfort for people surrounded by uncertainty, and causes a feedback loop that drives them to further terminate uncertainty
+***** [[https://en.wikipedia.org/wiki/Free_energy_principle][Friston et al]]
+**** There are times when uncertainty cannot reasonably be eliminated or deferred, or when a list of uncertain features contains only a few items that can be resolved with available resources
+***** [[https://en.wikipedia.org/wiki/Wiener_process][Wiener Processes]]
+****** Quantum systems
+****** Financial markets
+****** Ecology
+***** [[https://en.wikipedia.org/wiki/Multi-agent_system][Multi-agent systems]]
+****** Startups
+****** The Arts
+****** Politics
+**** This discomfort can lead to quitting or learned helplessness, even though perseverance can develop agency in the practitioner
+*** Sucking at something is the first step to being kind of good at something
+**** Four stages of competence
+***** Unconscious incompetence
+***** Conscious incompetence
+***** Conscious competence
+***** Unconscious competence
+*** Chaos as escape velocity for local maxima (agitation)
+**** Exploration, exploitation, and satisficing
+***** Synchronicity and serendipity disrupt myopia
+****** Probability space is much larger than your light cone
+***** Secretary problem with the ability to return to your schelling point
+****** Institutional memory, schelling shift, and overton windows
+****** Raymond Loewy’s MAYA (Most Advanced Yet Acceptable)
+** Acrobatics (Falling with Style)
+How to build comfort with chaos
+Falls can end lives, but simple tricks can reduce the probability of catastrophic injury, like good falling technique, diving, or swimming
+Y’ain’t so smart if a short swim’ll kill ya
+More falling without dying = more confidence
+Lindy Effect
+Falling is inevitable
+Physical falling
+hand-falls, forearm-falls, and dorsal-falls
+Cinematic stunts and extreme sports
+Elder care
+Metaphorical falling
+OODA loops, design thinking, and the scientific method
+Public scandal and public apology
+Ombudsman
+Interpersonal conflict
+Non-violent communication
+Style as choice and circumstance
+Planned & Unplanned falling
+Gliding v Parachuting v Tracking v Freefall
+Gymnastics v Tricking v Pratfalls v Slipping
+Agitprop v Kayfabe v Spin v Cancellation
+Playgrounds & Safe Spaces
+Mats and foam pits
+Theatre and improvisation
+War games and moot courts
+Graceful exits
+First impressions and final impressions
+** Scrying (Understanding with Symbols)
+How to interpret chaos
+The first step in teaching and learning is to establish shared vocabulary; these symbols are lies meant to filter out advanced concepts so you can focus on the fundamentals required to reach the next stage of mastery
+Doxa - What you’ve been told
+Episteme - What you’ve thought about
+Techne - What you’ve done
+Gnosis - What you’ve experienced
+A good teacher will help refresh this vocabulary as your practice requires new symbols, but these thoughts can become cached with repetition and calcify until your mind rejects the introduction of new symbols
+Cached thoughts and memes intrude on our perception of reality, especially when we overfit an old, well-recognized pattern on new data
+現地現物
+Leaning into beginner-mind, leaving yourself open to new patterns, and choosing your set of symbols are necessary steps to build useful models
+Oftentimes, true mastery comes when you stop relying on the symbolic mind, and turn instead to no-mind, or what Miyamoto Musashi called Void
+Sight
+In art practice, an essential step to mastery is learning to see what’s there instead of the symbols and cached thoughts to which we are accustomed
+Fine arts has the lips symbol, the eye symbol, or the smiling emoji
+Theatre has anger, sadness, fear, contempt, and happiness
+Music has loud, soft, fast, slow, jaunty, and somber
+These symbols are an element of style, but one’s style cannot be expanded until those symbols are recognized. Ignoring the limitations of your symbols is tantamount to having a style chosen for you
+Two-point perspective is the default for western audiences
+Egyptian murals, Formline, and Cubism are alternative forms
+No model is true, but some models are useful
+As we develop a personal style, along with social cachet, our own symbols can become entrenched and prevent further evolution
+But what if I’m not an artist?
+Kuhnian Progress
+Classical physics v relativistic physics v quantum physics
+Insight
+The recognition of internal chaos is an even more difficult problem than recognizing external chaos. For the corporeal world we have mutual reference for our symbols, but the internal world lacks this consistency
+Mathematics as an a priori analogue
+Voice training as a corporeal analogue
+There are a number of practices common to insight studies around the world
+Concentration
+Hard focus
+Repetition and persistence
+Thought sourcing
+Awareness
+Soft focus
+Proprioception
+Self dissolution
+Memory
+Chunking
+Storytelling and Salience
+Memory palace
+Peg system
+Major system
+Reinterpretation
+Internal Family Systems
+Exorcism
+The purpose of these exercises is to study the wetware with which we came pre-installed. Software updates can help one to recognize the limitations of the platform and tune its responses
+There is little to suggest from episteme or techne that these have measurable effect
+Doxa and gnosis corroborate that there is an internal experience of improvement in general well-being and satisfaction
+** Strategy & Tactics (Organizing with Distinction)
+How to make chaos legible
+The act of definition is an act of separation: from chaos emerged the sky and the earth; it is also an abstraction that destroys a layer of resolution
+Shannon entropy
+Perfect randomness is more complex than any ordered set
+Kolmogorov Complexity
+The minimum algorithm to describe a world state
+Legible spaces can be acted upon but they destroy information about local deviations and variance
+Scope sensitivity
+Normalization
+Regression
+Metis
+The smaller and more discrete the abstractions, the less information is lost but the more difficult to scan
+Always Be Knolling
+Domain-driven design
+Whenever possible, create small focused categories while in use, and do not fear the messiness of the data; kill the category when no longer in use
+Solmonoff Induction
+間 and 侘寂
+Reasoning toward Final Principles
+What does utopia look like?
+How does it differ from status quo?
+Where might utopia break down?
+Failure Modes and Effects Analysis
+Stakeholder analysis
+Journey Maps
+What is required to get there from here?
+Queuing Theory
+Network Theory
+Dependency Graphs
+Hamming Questions
+Eisenhower Action Priority Matrix (Impact, Effort, Cost, Urgency)
+Gantt Charts/Kanban
+Reasoning from First Principles
+What is the world like today?
+What are the root causes of the status quo?
+Five Whys
+Census
+Ethnography
+What seems broken yet still persists?
+Chesterton’s Fence
+Overton Window
+Lindy Effect
+How can we rearrange what is to get closer to what should be?
+IDEO 3 Lenses
+Business Model Canvas/Mission Model Canvas
+10/20/30 Pitch
+Minimum Viable Product
+** Grappling (Adaptation with Intention)
+How to impose order on chaos
+Now that you have built the courage to make change, you have created a point of view, and you have made designs for how change should proceed, it is time to attempt making change a reality
+Archimedes famously said, ‘give me a place to stand, and a lever long enough, and I will move the world’
+Moltke the Elder equally famously said, ‘no plan of operations extends with any certainty beyond the first contact with the main hostile force’
+There is no guarantee that the world agrees with your constructed reality; any variety of factors could lead to the dissolution of your carefully constructed models
+The greatest test of a fighter is a few rounds in the ring, but defeat is not the end of your career; in fact, defeat is an opportunity to learn from your opponent
+Xu Xiaodong
+Top 20 reasons for startup failure
+Weaknesses in your model are an opportunity to re-evaluate, reinterpret, and reconstruct your approach
+Distance
+VCs agree that one of the most important factors to new venture success is timing: is the market ready and clamoring for your change and did you launch it before anyone else could own the market (Andreessen, Graham, Gross, Thiel)
+First-Mover/Fast-Follower
+Technology Adoption Lifecycle/Lifecycle Management
+Hype Cycle/Crossing the Chasm
+An important element of hand-to-hand combat is distance: knowing when to be within striking, when to grapple, or when to be too close or too far for a solid hit, and the same is true for new ventures
+Economies of scale/Three Horizons model
+Organizational Structure
+Waterfall v Iterative
+Dunbar Number
+Southpaw
+Blue Ocean Strategy
+Casual gamers vs core gamers (PC, Sony, Xbox, Nintendo)
+Re-emergent innovation
+Renting plane engines vs buying
+Rocket Internet
+Commoditize the complement
+Innovation radar
+Leverage
+The second most important factor is team
+Comparative Advantage
+Small-world networks
+Structural bridges
+People can also be supplemented with tools
+Energy slaves
+Financial derivatives
+Tools can also be supplemented with environment
+Aggregator Theory
+Globalization
+Common pitfalls
+Not Invented Here
+YAGNI
+** Telepathy (Empathy with Skepticism)
+** Summoning (Recruitment with Zeal)

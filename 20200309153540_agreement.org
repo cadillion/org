@@ -1,0 +1,7 @@
+#+TITLE: Agreement
+#+TAGS: agreement, theorem, logic
+
+- tags :: [[file:20200309153614_logic.org][Logic]] [[file:20200309153628_comedy.org][Comedy]] [[file:20200309153730_it_all_happened_so_fast.org][It All Happened So Fast]] [[file:20200309153820_aumann_s_agreement_theorem.org][Aumann's agreement theorem]]
+- source ::
+
+* Agreement

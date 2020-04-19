@@ -1,0 +1,13 @@
+#+TITLE: MOVE
+#+ROAM_ALIAS:
+#+TAGS: programming, code, software engineering, files, hierarchy
+
+- tags   :: [[file:20200225142745_mvc.org][MVC]] [[file:20200225142822_programming.org][Programming]] [[file:20200419013425-rar_rose.org][RAR-ROSE]]
+- source ::
+
+
+* Notes
+** Models
+** Operations
+** Views
+** Events

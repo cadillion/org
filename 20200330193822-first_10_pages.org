@@ -1,0 +1,14 @@
+#+TITLE: First 10 Pages
+#+TAGS: writing, screenplays, Ilium
+
+- tags :: [[file:20200330192544-ilium.org][Ilium]] [[file:20200330193125-nuea_west.org][NUEA West]]
+- source ::
+
+* The rules
+** Make it familiar
+** Make it specific
+** Make it simple
+** Make it surprising
+** Keep it under 5 characters
+** Keep it under 10 pages
+** The first 10 should be what your show is

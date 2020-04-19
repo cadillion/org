@@ -1,0 +1,15 @@
+#+TITLE: Mirroring
+#+TAGS: skills, negotiation, acting, mime
+
+- tags :: [[file:20200404044821-negotiation.org][Negotiation]] [[file:20200404045457-acting.org][Acting]]
+- source :: [[https://www.masterclass.com/classes/chris-voss-teaches-the-art-of-negotiation][Chris Voss Masterclass on The Art of Negotiation]]
+
+* [[file:20200404044821-negotiation.org][Negotiation]]
+** Repeat back what your partner says, usually the last 3 words
+*** Builds rapport
+*** Acts as filler to help you think
+*** Indicates you're listening
+*** Identifies the partner's fact-pattern
+*** Leaves room for the person to expand
+*** Shut up after the mirror
+*** "So you..."

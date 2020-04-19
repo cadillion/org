@@ -1,0 +1,8 @@
+#+TITLE: Daisy
+#+ROAM_ALIAS: "Daily Paycheck"
+#+TAGS: programming, writing
+
+- tags   :: [[file:20200419003645-backlog.org][Backlog]] [[file:20200419002245-ideas.org][Ideas]] [[file:20200225142822_programming.org][Programming]]
+- source ::
+
+* Notes

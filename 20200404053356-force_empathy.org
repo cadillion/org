@@ -1,0 +1,11 @@
+#+TITLE: Force Empathy
+#+TAGS: skills, negotiation
+
+- tags :: [[file:20200404044821-negotiation.org][Negotiation]]
+- source :: [[https://www.masterclass.com/classes/chris-voss-teaches-the-art-of-negotiation][Chris Voss Masterclass on The Art of Negotiation]]
+
+* [[file:20200404044821-negotiation.org][Negotiation]]
+** Get them to see your side
+*** "How am I supposed to do that?"
+*** "What's going to happen if I do that?"
+*** "How can I overcome these obstacles in front of me"

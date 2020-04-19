@@ -1,0 +1,99 @@
+#+TITLE: Comedy
+#+TAGS: agreement, theorem, logic
+
+- tags :: [[file:20200309153730_it_all_happened_so_fast.org][It All Happened So Fast]] [[file:20200309153820_aumann_s_agreement_theorem.org][Aumann's agreement theorem]]
+- source ::
+
+* [[file:20200309153730_it_all_happened_so_fast.org][It All Happened So Fast]]
+** Mathematical Truths that we choose to ignore
+*** [[file:20200309153820_aumann_s_agreement_theorem.org][Aumann's agreement theorem]]
+**** If you don't agree with me you're a fucking asshole
+*** Arrow's Theorem
+**** We've had perfect ballots for 40 years and we still can't choose a president
+*** Littlewood's law of large numbers
+**** 9000 stars can be seen on the darkest night. You can't count for shit.
+**** Death rates and mindshare, weird-ass people out there
+*** Russel's Paradox
+**** A barber shaves everyone who doesn't shave himself, so who shaves the barber?
+**** We all contain nothing, just as no one contains everything
+*** Godel's Incompleteness Theorem
+**** A world in black or white, true or false, must be inconsistent or incomplete
+**** If you claim you have all the answers, you must be full of shit
+*** Tarski's Undefinablity Theorem
+**** Any consistent language cannot define its own concept of truth
+*** Lob's Theorem
+**** If you believe you can't, you're right
+** Expectations
+*** Honest thoughts
+    The hardest thing was realizing I would never live up to my own expectations
+    I used up all my energy on projects I didn't own, but cared for nonetheless
+    I did amazing things and realized that none of it mattered--at all, really
+    I finally put down the chip on my shoulder and didn't know what to do with it
+    I knew I'd changed people's lives because people raved about it to me
+    I want desperately to shout, but fear people won't care or they'll retaliate
+    That I'll confirm I'm such an outlier that nobody can actually relate to me
+    I'm afraid to be successful ultimately, afraid to pour my heart in again
+    I'm afraid of failure too. To know I gave it my all and it wasn't enough
+    I'm afraid of the dismal limbo between in which I disappoint my closest friend
+    I feel alone: the person I trust most has cross-purpose to my deepest desires
+    He's already proven that I can't trust him with my best interest over his own
+    And the really shitty part is that I look around at my peers and I am the outlier
+    I achieved one of the dreams that everyone has, but it feels like a sham
+    It feels dishonest, a disservice to their frustrated hopes that I can't feel happy with my accomplishments
+    I feel the distance between my desires and my reality so acutely and I have no
+    outlet through which to let those exasperations exorcise themselves
+*** Imitation to find your voice
+**** I thought, "I know, I'll copy Ralph Waldo Emerson. He really spoke to me"
+**** After some development, I've ended up between Shakespeare and Bukowski
+**** The way Shakespeare prefaces his theses with solipsist descents to scatology
+**** the way Bukowski cuts the BS "It means life is shit you fuckin' idiots"
+**** Whoever hath her wish, thou hast thy will
+**** You're such a slut, you should totally sleep with me cause c'mon like
+     what's one more dick when your vagina is like an ocean full of dicks
+** Agitproper
+*** If you have to ask for power you have none
+*** If conservatives just talked like liberals they could sweep, and vica versa
+*** People used to really care about things, cared enough to commit violence!
+*** In 1972 there were [[https://status451.com/2017/01/20/days-of-rage/][1900 domestic bombings]] in the US, anarchists and dissidents
+** Sociopathy
+*** In another life I could have been the unabomber
+*** Watching Hannibal reminded me of how badly I want to eat people
+*** You know that German guy who got somebody to agree to let him eat them?
+*** Why the fuck not!? You're a goddamn adult, consent to be eaten (pussy) is consent to be /eaten/
+** Energy Slaves
+*** I keep a flog in my room. For the Roomba, in case there's an uprising
+*** Endearingly incompetent. Like I have to follow him around to make sure he won't trip up
+** Constructed Society
+*** Lines on the road
+**** As a motorcyclist you realize that all these lines don't mean anything except
+     to the cars with flashing lights on top.
+**** The fact that nobody defects and fucks with traffic flows is proof of general
+     human goodness
+*** Overton Window
+**** It's turning 30, and suddenly the world of women over 30 has opened to you
+     Suddenly they're saying, "Well he's not /that/ young..."
+** Government
+*** Corona Virus and the failures of governance
+**** Capitalists
+***** Wins
+****** Amazon saved a lot of lives
+****** Jack Ma donating masks and ventilators
+****** Retooling of production to produce supplies
+***** Losses
+****** Toilet paper hoarding
+****** Mass Unemployment
+**** Socialists
+***** Wins
+****** Bailout money
+****** Triumph of federalism
+***** Losses
+****** Governments around the world failed to enact mitigation strategies
+**** Authoritarians
+***** Wins
+****** Success of martial law in China
+***** Losses
+****** Literally Hitler
+**** Anarcho-libertarians
+***** Wins
+****** Brazil's [[https://g1.globo.com/rj/rio-de-janeiro/noticia/2020/03/23/coronavirus-traficantes-e-milicianos-impoem-toque-de-recolher-em-comunidades-do-rio.ghtml][gangs]] stepped up to serve when the government wouldn't
+****** Not a whole lot of rioting

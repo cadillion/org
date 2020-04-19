@@ -1,0 +1,10 @@
+#+TITLE: Avoid Triggering Reciprocity
+#+TAGS: skills, negotiation
+
+- tags :: [[file:20200404044821-negotiation.org][Negotiation]]
+- source :: [[https://www.masterclass.com/classes/chris-voss-teaches-the-art-of-negotiation][Chris Voss Masterclass on The Art of Negotiation]]
+
+* [[file:20200404044821-negotiation.org][Negotiation]]
+** Asking anything gives the other an opportunity to ask the same of you
+*** Try to ask in a way that gives them control
+*** Boyfriend of a hostage talking to a drug dealer: "How do I know she's alive?"

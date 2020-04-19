@@ -1,0 +1,19 @@
+#+TITLE: Handshakes, Dark Markets, Malls, and the Bazaar
+#+TAGS: social, writing
+
+- tags :: [[file:20200419003645-backlog.org][Backlog]] [[file:20200419002245-ideas.org][Ideas]] [[file:20200418212058-social_media.org][Social Media]] [[file:20200419002214-writing.org][Writing]]
+- source ::
+
+* Notes
+** Handshakes require intimacy:
+*** Rapport with the seller is necessary to buy
+*** Transactions are visible only to participants
+** Dark markets require membership: wares and knowledge are highly specialized
+*** Esoteric knowledge required to earn membership and to trade
+*** Transactions are only visible to the membership
+** Malls require intent: wares are advertised and location-specific
+*** You find nothing unless you are looking for it, but search is easy
+*** Transactions are only visible to those who are co-located
+** Bazaars require presence: wares are broadly available and unfiltered
+*** Anyone can set up shop so all things are available, if hard to find
+*** Transactions are visible to everyone

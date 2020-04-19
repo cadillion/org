@@ -1,0 +1,24 @@
+#+TITLE: Negotiation
+#+TAGS: skills
+
+- tags :: [[file:20200225023940_bivouacking.org][Bivouacking]] [[file:Firecraft.org][Firecraft]] [[file:20200225023945_foraging.org][Foraging]] [[file:20200225023943_navigation.org][Navigation]] [[file:20200225142822_programming.org][Programming]] [[file:20200404044821-negotiation.org][Negotiation]]
+- source :: [[https://www.masterclass.com/classes/chris-voss-teaches-the-art-of-negotiation][Chris Voss Masterclass on The Art of Negotiation]]
+
+* Elements
+** [[file:20200404061845-tactical_empathy.org][Tactical Empathy]]
+** [[file:20200404053118-why_s_for_whats.org][Why's for Whats]]
+** [[file:20200404062901-yeses_and_noes.org][Yeses and Noes]]
+** [[file:20200404045256-mirroring.org][Mirroring]]
+** [[file:20200404045824-labelling.org][Labelling]]
+** [[file:20200404052045-playful_voice.org][Playful Voice]]
+** [[file:20200404050354-late_night_dj_voice.org][Late Night FM DJ Voice]]
+** [[file:20200404050432-analyst_voice.org][Analyst Voice]]
+** [[file:20200404053356-force_empathy.org][Force Empathy]]
+** [[file:20200404053727-avoid_triggering_reciprocity.org][Avoid Triggering Reciprocity]]
+** [[file:20200404054134-ask_legitimate_questions.org][Ask Legitimate Questions]]
+** [[file:20200404060601-accusation_audit.org][Accusation Audit]]
+* Scripts
+** "How did you get here?"
+** "How do we work our way forward?"
+** "How can I help you get what you want?"
+** Drop the F-bomb: "Is that fair?"

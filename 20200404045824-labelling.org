@@ -1,0 +1,18 @@
+#+TITLE: Labelling
+#+TAGS: skills, negotiation
+
+- tags :: [[file:20200404044821-negotiation.org][Negotiation]]
+- source :: [[https://www.masterclass.com/classes/chris-voss-teaches-the-art-of-negotiation][Chris Voss Masterclass on The Art of Negotiation]]
+
+* [[file:20200404044821-negotiation.org][Negotiation]]
+** Give a label to the unsaid elements of their speech
+*** Emotions, Fact-patterns, Considerations, Hesitations
+*** Can identify pain-points, leverage, win-win situations
+*** Reduces emotion after it is labelled
+*** Don't use the word I
+*** Stop talking after dropping the label
+*** Silence is an invitation to expand on the label
+*** "It feels like..."
+*** "It sounds like you are..."
+*** "It sounds like you want..."
+*** "It sounds like there might be more behind that..."

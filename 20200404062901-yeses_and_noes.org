@@ -1,0 +1,21 @@
+#+TITLE: Yeses and Noes
+#+TAGS: skills, negotiation
+
+- tags :: [[file:20200404044821-negotiation.org][Negotiation]]
+- source :: [[https://www.masterclass.com/classes/chris-voss-teaches-the-art-of-negotiation][Chris Voss Masterclass on The Art of Negotiation]]
+
+* [[file:20200404044821-negotiation.org][Negotiation]]
+** Yes is dangerous
+*** Confirmation yeses stop the conversation
+*** Commitment yeses are agreement
+*** Counterfeit yeses get defenses up
+**** Often drawn out "yeeees"
+**** Re-ask the question as a no question
+*** Reduces autonomy
+*** Feels like a concession
+*** Still needs a How ("How would you like to proceed?")
+** No is golden
+*** "Do you disagree?" instead of "Do you agree?"
+*** "Are you against...?"
+*** "Is it a crazy idea...?"
+*** Feels like victory or defense

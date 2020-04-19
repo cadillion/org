@@ -1,0 +1,10 @@
+#+TITLE: MVC
+#+TAGS: programming, code, software engineering, files, hierarchy
+
+- tags :: [[file:20200225142745_mvc.org][MVC]] [[file:20200225142759_move.org][MOVE]] [[file:20200225142822_programming.org][Programming]]
+- source::
+
+* Notes
+** Model
+** View
+** Controller

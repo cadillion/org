@@ -1,0 +1,11 @@
+#+TITLE: Code Organization
+#+ROAM_ALIAS:
+#+TAGS: programming, code, software engineering, files, hierarchy
+
+- tags   :: [[file:20200419003645-backlog.org][Backlog]] [[file:20200225142745_mvc.org][MVC]] [[file:20200225142759_move.org][MOVE]] [[file:20200225142822_programming.org][Programming]] [[file:20200419013425-rar_rose.org][RAR-ROSE]] [[file:20200419002214-writing.org][Writing]]
+- source :: [[https://cirw.in/blog/time-to-move-on][Time to Move On]]
+
+* Code Organization models
+** [[file:20200225142745_mvc.org][MVC]]
+** [[file:20200225142759_move.org][MOVE]]
+** [[file:20200419013425-rar_rose.org][RAR-ROSE]]

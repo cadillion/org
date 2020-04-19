@@ -1,0 +1,7 @@
+#+TITLE: Firecraft
+#+TAGS: fire, prepping, survival
+
+- tags :: [[file:20200225023937_overpowered_skilltrees.org][Overpowered Skilltrees]]
+- source :: [[https://en.wikipedia.org/wiki/Fire_making][Firecraft]]
+
+* How not to die of the shivers

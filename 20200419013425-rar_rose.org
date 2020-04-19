@@ -1,0 +1,15 @@
+#+TITLE: RAR-ROSE
+#+ROAM_ALIAS:
+#+TAGS: programming, writing
+
+- tags   :: [[file:20200225142640_code_organization.org][Code Organization]] [[file:20200225142822_programming.org][Programming]]
+- source ::
+
+* Notes
+** Routes
+** Assets
+** Requests
+** Render
+** Operations
+** Store
+** Events

@@ -1,0 +1,10 @@
+#+TITLE: Why's for Whats
+#+TAGS: skills, negotiation
+
+- tags :: [[file:20200404044821-negotiation.org][Negotiation]]
+- source :: [[https://www.masterclass.com/classes/chris-voss-teaches-the-art-of-negotiation][Chris Voss Masterclass on The Art of Negotiation]]
+
+* [[file:20200404044821-negotiation.org][Negotiation]]
+** "Why do you need X?" becomes "What's wrong with X?"
+*** Why's are confrontational
+*** People expect an attack after why

@@ -1,0 +1,16 @@
+#+TITLE: Accusation Audit
+#+TAGS: skills, negotiation
+
+- tags :: [[file:20200404044821-negotiation.org][Negotiation]]
+- source :: [[https://www.masterclass.com/classes/chris-voss-teaches-the-art-of-negotiation][Chris Voss Masterclass on The Art of Negotiation]]
+
+* [[file:20200404044821-negotiation.org][Negotiation]]
+** Make a list of all the negative names and drop them yourself early
+*** Get ahead of the negatives
+*** Be exhaustive
+*** If you're not laying it on thick, you're not thinking creatively enougs
+*** You want them to say "Don't be so hard on yourself"
+*** "I know this is a big ask, but..."
+*** "This is gonna make me sound like a jerk..."
+*** "Forgive me, this is gonna sound..."
+*** "I have a big ask..."
