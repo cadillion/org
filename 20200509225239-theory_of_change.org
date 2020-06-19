@@ -1,0 +1,62 @@
+#+TITLE: Theory of Change
+#+ROAM_ALIAS: "Stages of Revolution" "Creating Political Movements"
+#+ROAM_KEY: ""
+#+TAGS: change, community, culture, politics, writing
+
+- tags   :: [[file:20200419003645-backlog.org][Backlog]] [[file:20200419002245-ideas.org][Ideas]] [[file:20200413001438-manifesto.org][Manifesto]] [[file:20200419002214-writing.org][Writing]]
+- source ::
+
+* Notes
+** Stage One: Definitive Opportunity
+*** Often accompanied by a manifesto or a mission statement
+*** Creates a rallying point, an advertisable shared identity
+*** Defines the measurable goals of the movement
+*** Is open to change and fracture as the movement grows
+*** Usually driven by a personality or a small cohort
+*** Examples
+**** Mein Kampf, Communist Manifesto, Little Red Book,
+**** Surrealist Manifesto, Common Sense, 95 Theses,
+**** Declaration of Independence, Motorcycle Diaries,
+**** Leviathan, The Prince, The Aeneid
+** Stage Two: Social Opportunity
+*** Gathering in groups creates cohesion, shared history
+*** Necessary for motivated reasoning, willingness to protect
+*** Requires multiple participants, minimal diversity
+*** Examples
+**** The Junta, The Sons of Liberty, the Comintern,
+**** The Surrealists, the Impressionists, the Bauhaus
+**** The Lutherans, The Enlightenment, Vienna Circle
+** Stage Three: Creative Opportunity
+*** Makes a movement sharable, a chance to recruit strangers
+*** Defines the legends of an era, the emulated personalities
+*** Provides evidence for why the movement exceeds status quo
+*** Examples:
+**** Burning Man, Edinburgh Festival, Williamsburg Festival,
+**** Proletkult, Y Combinator, the Medicis, Vienna Circle,
+**** the Bauhaus, Ballets Russes, Belle Isle, Harlem Revival,
+**** Ghost Dance, the Beatniks, the Punks
+** Stage Four: Political Opportunity
+*** Once you have numbers, you can vote and move states
+*** Political action is inevitable to maintain momentum
+*** Locks in advantage and perpetuates the cult(ure)
+*** Examples
+**** Nazis, Bolsheviks, Tea-party, Civil Rights Movement,
+**** the Quakers, the Green New Deal, the Medicis
+** Stage Five: Coercive Opportunity
+*** When politics fail, coercion is the fallback
+*** Requires numbers or logistics to resist the sovereign
+*** Often defined by a powerful or charismatic leader
+*** Examples
+**** Bolivar's Revolution, Rough Riders, Napoleonic Empire,
+**** Leninism, Stalinism, Iroquois Confederation, Al-Qaeda,
+**** Waco, Rajneeshpuram, Daesh, Arab Spring, Tianenmen
+** Social Contracts and Social Parlays
+*** Social Contract
+**** Explicit knowledge, recorded knowledge
+**** The explicit rules that are defined by society
+**** Laws, rules, regulations
+*** Social Parlays
+**** Implicit knowledge, black markets
+**** Range of consequences for a range of actions
+**** Probabilistic assessment of likely consequences and likely rewards
+**** Often invisible, or implied in the gross, due to uncaught activity

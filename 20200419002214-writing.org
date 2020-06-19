@@ -1,1 +1,6 @@
 #+TITLE: Writing
+#+TAGS: politics, art, technology
+
+- tags   :: [[file:20200309153628_comedy.org][Comedy]] [[file:20200618163817-desirability_of_currency.org][Desirability of Currency]] [[file:20200309153730_it_all_happened_so_fast.org][It All Happened So Fast]] [[file:20200413001438-manifesto.org][Manifesto]]
+            [[file:20200509225239-theory_of_change.org][Theory of Change]]
+- source ::

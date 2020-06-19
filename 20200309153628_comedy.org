@@ -1,7 +1,7 @@
 #+TITLE: Comedy
 #+TAGS: agreement, theorem, logic
 
-- tags :: [[file:20200309153730_it_all_happened_so_fast.org][It All Happened So Fast]] [[file:20200309153820_aumann_s_agreement_theorem.org][Aumann's agreement theorem]]
+- tags :: [[file:20200309153820_aumann_s_agreement_theorem.org][Aumann's agreement theorem]]   [[file:20200309153730_it_all_happened_so_fast.org][It All Happened So Fast]]
 - source ::
 
 * [[file:20200309153730_it_all_happened_so_fast.org][It All Happened So Fast]]
@@ -60,7 +60,13 @@
 ** Media Diet
 *** Pika is the compulsive eating of inedible shit under vitamin deficiency
 *** The same thing happens when you starve your brain, your survival instinct
+*** We are trapped in a Chinese Room, parroting text which we do ont understand
 ** Constructed Society
+*** Our constructed society is shit
+*** Self-care days
+**** NO. Self care is fucking bullshit. Self care is something you do so you don't
+**** actually have to fix your fucking life. If you have to take a self-care day
+**** once a week, you need to change your fucking situation. Shit.
 *** Lines on the road
 **** As a motorcyclist you realize that all these lines don't mean anything except
      to the cars with flashing lights on top.
@@ -94,3 +100,16 @@
 ***** Wins
 ****** Brazil's [[https://g1.globo.com/rj/rio-de-janeiro/noticia/2020/03/23/coronavirus-traficantes-e-milicianos-impoem-toque-de-recolher-em-comunidades-do-rio.ghtml][gangs]] stepped up to serve when the government wouldn't
 ****** Not a whole lot of rioting
+*** Modern people think they're socialists but they're just authoritarians
+**** Socialism is ownership by people but we instead abdicate control to leaders
+** Common Mistakes
+*** Half-baked questions, the asker is on to something, but they swung and missed
+**** You can answer Yes, and...[here's extra info that enriches your intuition]
+**** You can answer Yes, but...[here's the caveat about your intuition]
+**** You can answer Maybe, if...[here's what we don't know yet]
+**** You can answer No, but...[here's how you get to what you're reaching for]
+**** You can answer No, and...[here's the knowledge you're missing]
+**** You can answer WTF were you thinking...[you're a fucking idiot]
+*** I don't believe in sitting on stools for posture. You have to be a fucking
+idiot to believe that old-wives' tail. Like why would having a back to your chair
+make you lean forward?

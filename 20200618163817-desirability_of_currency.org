@@ -1,0 +1,66 @@
+#+title: Desirability of Currency
+#+ROAM_ALIAS: "Blockchain"
+#+ROAM_KEY: ""
+#+TAGS: technology, programming, cryptography, finance
+
+- tags   :: [[file:20200618163512-cryptocurrency.org][Cryptocurrency]] [[file:20200419002320-wip_work_in_progress.org][WIP - Work In Progress]] [[file:20200419002214-writing.org][Writing]]
+- source ::
+
+* Notes
+** Historical model of use
+*** Store of value
+*** Unit of account
+*** Medium of exchange
+** Historical model of development and interface
+*** Ad hoc
+*** Government to government, business to government, business to business
+** Unification of protocols
+*** State currencies to federal currency
+**** Eurozone currencies to euro
+*** Internet had many protocols, computers didn't know how to talk to each other
+**** Http and www
+*** Building currency protocol so money changers know how to talk to each other
+*** Historical analogy
+**** Paypal said how can we make money like email
+**** Crypto says how can we make money like the app store
+** 7-factor model
+*** Identity
+**** Accounts are tied to a real person
+***** fraud-prevention
+***** state control
+*** Privacy
+**** Activity cannot be determined directly
+***** zero-knowledge proofs
+***** pseudonymity
+*** Verifiability
+**** Can verify someone did what they said they did
+***** Merkle proofs
+***** PoWork/PoStake/PoStorage
+***** triple-entry accounting
+*** Liquidity
+**** Can exchange money for real goods quickly and easily
+***** divisibility
+***** exeter's inverted pyramid
+***** tokenization
+***** borrow-invest-insure cycle
+***** momentum accounting
+*** Administration
+**** Formal process for making decisions about rule-making and enforcement
+***** centralized vs decentralized
+***** inflation and issuance
+***** developer-miner-user trichotomy
+***** DAOs
+*** Programmability
+**** Can you attach useful work to the contract
+***** escrow
+***** notarization
+***** shared computing
+***** ricardian contracts
+*** Interactivity
+**** Ease of acquisition and usage
+***** point of sale
+***** wallets
+***** mining
+***** fungible account numbers
+***** predictibility
+***** UX

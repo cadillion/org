@@ -3,7 +3,7 @@
 #+ROAM_KEY: https://docs.google.com/document/d/1ZqsNSY7xSELjdRI9IQsh1wX_QXfUD74UwmKyqw48CXw/edit?pli=1#heading=h.szw7ah4ro1g
 #+TAGS: learning, writing, skills
 
-- tags   :: [[file:20200225023940_bivouacking.org][Bivouacking]] [[file:Firecraft.org][Firecraft]] [[file:20200225023945_foraging.org][Foraging]] [[file:20200419002245-ideas.org][Ideas]] [[file:20200225023943_navigation.org][Navigation]] [[file:20200225142822_programming.org][Programming]]
+- tags   :: [[file:20200225023940_bivouacking.org][Bivouacking]] [[file:20200225023941_firecraft.org][Firecraft]] [[file:20200225023945_foraging.org][Foraging]] [[file:20200419002245-ideas.org][Ideas]] [[file:20200225023943_navigation.org][Navigation]] [[file:20200225142822_programming.org][Programming]]
             [[file:20200404044821-negotiation.org][Negotiation]] [[file:20200419002320-wip_work_in_progress.org][WIP - Work In Progress]] [[file:20200419002214-writing.org][Writing]]
 - source :: [[https://docs.google.com/document/d/1ZqsNSY7xSELjdRI9IQsh1wX_QXfUD74UwmKyqw48CXw/edit?pli=1#heading=h.szw7ah4ro1g][Overpowered Skilltrees]]
 

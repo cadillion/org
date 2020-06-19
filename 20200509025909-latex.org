@@ -1,0 +1,22 @@
+#+TITLE: LaTeX
+#+ROAM_ALIAS:
+#+ROAM_KEY: https://www.latex-project.org/
+#+TAGS: formatting, math, programming, publishing
+
+- tags   :: [[file:20200225142822_programming.org][Programming]] [[file:20200419002214-writing.org][Writing]]
+- source :: [[https://www.latex-project.org/][LaTeX Project Site]]
+
+* Notes
+#+BEGIN_EXPORT latex
+\documentclass{article}
+\title{A Test}
+\author{Colton Dillion}
+\date{2020 May 7}
+\setlength{\unitlength}{1cm}
+\thicklines
+\begin{picture}(10,6)
+\put(2,2.2){\line(1,0){6}}
+\put(2,2.2){\circle{2}}
+\put(6,2.2){\oval(4,2)[r]}
+\end{picture}
+#+END_EXPORT

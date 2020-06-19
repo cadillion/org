@@ -1,0 +1,9 @@
+#+title: Cryptocurrency
+#+ROAM_ALIAS: "Blockchain"
+#+ROAM_KEY: ""
+#+TAGS: technology, programming, cryptography, finance
+
+- tags   :: [[file:20200618163817-desirability_of_currency.org][Desirability of Currency]]
+- source ::
+
+* Notes

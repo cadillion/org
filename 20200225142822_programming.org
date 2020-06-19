@@ -1,4 +1,4 @@
 #+TITLE: Programming
 #+TAGS: programming, code, software engineering, files, hierarchy
 
-- tags :: [[file:20200225142745_mvc.org][MVC]] [[file:20200225142759_move.org][MOVE]] [[file:20200225142640_code_organization.org][Code Organization]] [[file:20200225023937_overpowered_skilltrees.org][Overpowered Skilltrees]]
+- tags :: [[file:20200225142745_mvc.org][MVC]] [[file:20200225142759_move.org][MOVE]] [[file:20200225142640_code_organization.org][Code Organization]] [[file:20200509025909-latex.org][LaTeX]] [[file:20200225023937_overpowered_skilltrees.org][Overpowered Skilltrees]]

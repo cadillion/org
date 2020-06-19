@@ -1,11 +1,15 @@
 #+TITLE: Manifesto
 #+TAGS: politics, art, technology
 
-- tags   :: [[file:20200419002245-ideas.org][Ideas]] [[file:20200419002320-wip_work_in_progress.org][WIP - Work In Progress]] [[file:20200419002214-writing.org][Writing]]
+- tags   :: [[file:20200619113221-governance.org][Governance]] [[file:20200419002245-ideas.org][Ideas]] [[file:20200509225239-theory_of_change.org][Theory of Change]] [[file:20200419002320-wip_work_in_progress.org][WIP - Work In Progress]]
+            [[file:20200419002214-writing.org][Writing]]
 - source ::
 
 * A Proximalist Manifesto
-** Tomorrows must be manufactured
+** Celebrate chaos
+*** By definition, inadequate equilibria are shitty and hard to escape
+*** The only way out is an exogenous shock, endemic randomness
+** Manufacture tomorrows, and tomorrows, and tomorrows
 *** Past is prologue, and the future owes us nothing
 **** History has gravity, and we must exert constant force to escape its pull
 **** The future comprises dependent parts, each part created in its own time

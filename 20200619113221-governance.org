@@ -1,0 +1,7 @@
+#+title: Governance
+#+ROAM_ALIAS: "Community"
+#+ROAM_KEY: http://metagov.org/govlist/
+#+TAGS: politics, art, technology
+
+- tags   :: [[file:20200419002245-ideas.org][Ideas]] [[file:20200509225239-theory_of_change.org][Theory of Change]]
+- source :: http://metagov.org/govlist/
